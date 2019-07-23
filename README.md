@@ -1,6 +1,8 @@
-<<<<<<< HEAD
-# Unity_pose_toolkit
+### Training:   
+./run.sh
 
-=======
-# dms_classification
->>>>>>> 8db4ccd3e1e9898d60b8943dcbdd14746fac4a81
+### Testing accuracy from the same data source: 
+precision@1: 94%  
+
+### Visualizing the attention of Convolutional Neural Networks on the image: 
+python cam.py
